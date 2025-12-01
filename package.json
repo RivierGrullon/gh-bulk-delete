@@ -1,0 +1,37 @@
+{
+  "name": "gh-bulk-delete",
+  "version": "1.0.0",
+  "description": "Interactively select and delete multiple GitHub repositories at once",
+  "main": "index.js",
+  "bin": {
+    "gh-bulk-delete": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "github",
+    "cli",
+    "delete",
+    "repository",
+    "bulk",
+    "cleanup",
+    "repos"
+  ],
+  "author": "Rivier Grullon",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RivierGrullon/gh-bulk-delete.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RivierGrullon/gh-bulk-delete/issues"
+  },
+  "homepage": "https://github.com/RivierGrullon/gh-bulk-delete#readme",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
