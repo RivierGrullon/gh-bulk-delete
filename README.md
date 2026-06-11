@@ -143,8 +143,9 @@ Command: _
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
 ## Contributing
 
-Issues and PRs welcome at [github.com/Riviergrullon/gh-bulk-delete](https://github.com/RivierGrullon/gh-bulk-delete)
+Issues and PRs welcome at [github.com/RivierGrullon/gh-bulk-delete](https://github.com/RivierGrullon/gh-bulk-delete).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
