@@ -92,7 +92,7 @@ Command: _
 
 ## Requirements
 
-- Node.js 18+ (for native fetch)
+- Node.js 20+ (for native fetch)
 - GitHub Personal Access Token with `delete_repo` scope
 
 ## License
