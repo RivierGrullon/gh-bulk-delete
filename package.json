@@ -1,6 +1,6 @@
 {
   "name": "gh-bulk-delete",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Interactively select and delete multiple GitHub repositories at once",
   "main": "index.js",
   "bin": {
